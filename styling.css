@@ -1,8 +1,0 @@
-.TopBar {
-	overflow: hidden;
-	background-color: #333;
-}
-
-.Topbar.space-around {
-	justify-content: space-around;
-}
